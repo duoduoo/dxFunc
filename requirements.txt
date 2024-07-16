@@ -1,0 +1,6 @@
+setuptools~=65.5.1
+matplotlib~=3.9.1
+pandas~=2.2.2
+ipynbname~=2024.1.0.0
+numpy~=2.0.0
+rpy2~=3.5.12
